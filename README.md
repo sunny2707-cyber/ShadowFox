@@ -12,9 +12,8 @@ A Java-based console application that performs:
 - Command-line interface
 - Math library
 
-## How to Run
-1. Compile:
-```bash
+
+
 
 
 
